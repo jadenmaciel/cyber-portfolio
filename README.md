@@ -1,1 +1,1 @@
-# cloud-guardrails-lab
+# AWS Cloud Guardrails – CIS-Lite Baseline (Student Project)
