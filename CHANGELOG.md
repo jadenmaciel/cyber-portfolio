@@ -6,7 +6,7 @@ All notable changes to this lab repository will be documented in this file.
 
 ### Added
 
-- Initial release of **Module 11 — PowerShell Filesystem Metrics Lab**.
+- Initial release of **PowerShell Filesystem Metrics Lab**.
 
 - README with procedure, evidence checklist, troubleshooting, and learning outcomes.
 

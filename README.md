@@ -1,4 +1,4 @@
-# Module 11 — PowerShell Filesystem Metrics Lab
+# PowerShell Filesystem Metrics Lab
 
 **Outcome:** Measured per-folder size, last-modified timestamps, and basic inventory of the **Documents** directory using PowerShell pipelines and object formatting; captured evidence via three screenshots.
 
