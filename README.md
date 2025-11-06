@@ -39,4 +39,16 @@ A single, curated repo for my security projects. Each folder is a standalone pro
 - Risks & mitigations
 - Lessons learned
 
+## Syncing Projects
+
+To pull updates from the original repositories, use `git subtree pull`:
+
+```bash
+# Example: sync wifi-ids-analysis
+git fetch wifi-ids-analysis
+git subtree pull --prefix=projects/wifi-ids-analysis wifi-ids-analysis main -m "chore(wifi-ids-analysis): sync from upstream"
+```
+
+**Note:** If you imported with `--squash`, add `--squash` to the pull command as well.
+
 **Author:** Jaden Maciel-Shapiro • **Focus:** Cloud / DevSecOps / Security Engineering • **Updated:** 2025-01-27
