@@ -1,0 +1,34 @@
+# Key VirtualBox & Windows Server Setup Commands
+
+# Power on VM with ISO
+
+Start VirtualBox GUI → New → Name: "Server-2025-Desktop" → Settings:
+
+  Memory: 4096 MB
+
+  CPUs: 2
+
+  Storage: 80 GB (VDI, dynamically allocated)
+
+# Mount ISO
+
+Settings → Storage → Add Optical Drive → Windows_Server_2025.iso
+
+# Run Guest Additions (Desktop)
+
+Devices → Insert Guest Additions CD Image
+
+D:\VBoxWindowsAdditions.exe
+
+# Server Core post-install commands
+
+D:
+
+dir
+
+VBoxWindowsAdditions.exe
+
+sconfig
+
+  Option 3 → Create User → jmaciel
+
