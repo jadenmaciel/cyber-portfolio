@@ -51,4 +51,4 @@ git subtree pull --prefix=projects/wifi-ids-analysis wifi-ids-analysis main -m "
 
 **Note:** If you imported with `--squash`, add `--squash` to the pull command as well.
 
-**Author:** Jaden Maciel-Shapiro • **Focus:** Cloud / DevSecOps / Security Engineering • **Updated:** 2025-01-27
+**Author:** Jaden Maciel-Shapiro • **Focus:** Cloud / DevSecOps / Security Engineering • **Updated:** 2025-11-06
