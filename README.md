@@ -1,8 +1,11 @@
 # PowerShell Filesystem Metrics Lab
 
-**Outcome:** Measured per-folder size, last-modified timestamps, and basic inventory of the **Documents** directory using PowerShell pipelines and object formatting; captured evidence via three screenshots.
+**Outcome:** Measured per-folder size, last-modified timestamps, and basic
+inventory of the **Documents** directory using PowerShell pipelines and object
+formatting; captured evidence via three screenshots.
 
-> The original lab brief (PDF/Word) should be placed in `/docs/` and committed with the repo.
+> The original lab brief (PDF/Word) should be placed in `/docs/` and committed
+> with the repo.
 
 ---
 
@@ -138,10 +141,11 @@ You're finished when:
 
 ## /src/ script references
 
-If you choose to save scripts, use these filenames under `/src/` (the code appears above in this README):
+If you choose to save scripts, use these filenames under `/src/` (the code
+appears above in this README):
 
-* `folder-sizes.ps1`
+- `folder-sizes.ps1`
 
-* `folder-lastwrite.ps1`
+- `folder-lastwrite.ps1`
 
-* `folder-size-or-empty.ps1`
+- `folder-size-or-empty.ps1`
