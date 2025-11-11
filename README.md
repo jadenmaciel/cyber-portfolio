@@ -30,6 +30,9 @@ A single, curated repo for my security projects. Each folder is a standalone pro
 - **Cryptomator Encryption Project** → `projects/project-cryptomator-encryption`
 - **Windows USB Recovery Toolkit** → `projects/windows-usb-recovery-toolkit`
 
+### Networking & Infrastructure
+- **SOHO Development Network** → `projects/project-soho-dev-network`
+
 ### What's inside each project
 
 - Overview & goals
