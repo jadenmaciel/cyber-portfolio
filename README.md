@@ -1,4 +1,4 @@
-﻿# Cybersecurity Projects Portfolio
+# Cybersecurity Projects Portfolio
 
 A single, curated repo for my security projects. Each folder is a standalone project with its own README and preserved commit history (via `git subtree`).
 
@@ -54,4 +54,4 @@ git subtree pull --prefix=projects/wifi-ids-analysis wifi-ids-analysis main -m "
 
 **Note:** If you imported with `--squash`, add `--squash` to the pull command as well.
 
-**Author:** Jaden Maciel-Shapiro • **Focus:** Cloud / DevSecOps / Security Engineering • **Updated:** 2025-11-06
+**Author:** Jaden Maciel • **Focus:** Cloud / DevSecOps / Security Engineering • **Updated:** 2025-11-06
