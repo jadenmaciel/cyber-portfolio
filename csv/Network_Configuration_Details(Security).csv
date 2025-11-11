@@ -1,0 +1,6 @@
+Feature
+Unique login passwords for each device
+"Local firewall enabled (Windows Defender, UFW, macOS firewall)"
+SSH key authentication for Linux (B1)
+Remote wipe enabled on M1 and M2
+All unused ports closed via router/firewall

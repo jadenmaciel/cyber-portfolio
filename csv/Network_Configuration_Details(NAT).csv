@@ -1,0 +1,4 @@
+Network Address Translation (NAT)
+Enabled by default on the Orbi Pro WiFi 6 Mini router.
+Conducts dynamic NAT to enable internal private IP addresses (192.168.10.0/24) to access external public networks through the ISP.
+NAT allows hiding of internal IPs and is a fundamental part of outbound traffic direction and security.

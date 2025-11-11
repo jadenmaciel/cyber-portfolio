@@ -1,0 +1,11 @@
+Parameter,Value
+SSID,Hidden
+Encryption,WPA3
+MAC Address Filtering,Enabled
+DHCP Range,192.168.10.10 – 192.168.10.200
+Reserved Static IP - Linux Workstation (B1),192.168.10.201
+Reserved Static IP - Printer (B4),192.168.10.100
+Firmware Version,V1.0.9.90
+Firewall Default,Block all inbound traffic
+Firewall Allowed,"SSH (TCP 22), HTTPS (TCP 443), Dev Server (TCP 3000)"
+ICMP (ping) from WAN,Blocked

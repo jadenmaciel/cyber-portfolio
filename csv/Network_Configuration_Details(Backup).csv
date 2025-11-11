@@ -1,0 +1,4 @@
+Backup Strategy
+"Daily backups to Google Drive, iCloud, OneDrive"
+Development files version-controlled (GitHub/GitLab)
+macOS/Linux backups with Time Machine or rsync
