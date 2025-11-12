@@ -1,0 +1,11 @@
+Diagram Code,Device,OS/Firmware,IP Assignment,Applications/Functions
+A1,Dell OptiPlex 7010 Micro,Windows 11 Pro (64-bit),DHCP,"MS Office, Edge, GitHub Desktop"
+A2,Alienware Aurora R16,Windows 11 Pro (64-bit),DHCP,"Visual Studio, Unity, Docker, Postman"
+A3,Dell Inspiron 14,Windows 11 Home (64-bit),DHCP,"Email, Slack, VSCode"
+A4,Dell XPS 13,Windows 11 Pro (64-bit),DHCP,"PyCharm, Git, VirtualBox"
+B1,Precision 5860 Tower Workstation,Ubuntu 22.04 LTS (64-bit),Static (192.168.10.201),"Docker, SSH, Node.js, VSCode Server"
+B2,Mac Studio (M3 Ultra),macOS Sonoma (ARM64),DHCP,"Xcode, Swift, Figma, Slack"
+B3,MacBook Pro 16” (M4 Max),macOS Sonoma (ARM64),DHCP,"Xcode, GitHub CLI, Zoom"
+M1,iPhone 16 Pro,iOS 18,DHCP via Wi-Fi,"Safari, Mail, TestFlight"
+M2,iPad Pro 13”,iPadOS 18,DHCP via Wi-Fi,"Notability, Procreate, Safari"
+B4,Brother MFC-L8900CDW,Firmware vL8.00,Static (192.168.10.100),"Printing, Scanning, Network Backup"

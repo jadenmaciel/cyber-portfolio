@@ -1,0 +1,18 @@
+Legend,,,
+Code,Device Name,Device Type,Network Role
+A1,Dell OptiPlex 7010 Micro,Windows Low-End Desktop,Primary Network (A)
+A2,Alienware Aurora R16,Windows High-End Desktop,Primary Network (A)
+A3,Dell Inspiron 14,Windows Low-End Laptop,Primary Network (A)
+A4,Dell XPS 13,Windows High-End Laptop,Primary Network (A)
+B1,Precision 5860 Tower Workstation,Linux Desktop,Secondary Network (B)
+B2,Mac Studio (M3 Ultra),macOS Desktop,Secondary Network (B)
+B3,MacBook Pro 16” (M4 Max),macOS Laptop,Secondary Network (B)
+B4,Brother MFC-L8900CDW,Printer,Primary Network (A)
+M1,iPhone 16 Pro (1TB),Smartphone,"Secondary Network (B, Wi-Fi)"
+M2,"iPad Pro 13” (1TB, M4 Chip)",Tablet,"Secondary Network (B, Wi-Fi)"
+C1,NETGEAR 8-Port PoE+ Switch (x2),Switch,Network Backbone
+C2,Orbi Pro WiFi 6 Mini AX1800,Router/Wireless AP,Wireless Routing/AP
+C3,SURFboard S33 DOCSIS 3.1 Cable Modem,Modem,ISP Gateway
+Solid Line,Cat 6a Ethernet Cable ,,
+Dotted Line,Coaxial Cable Line,,
+Dashed Line,802.11 a WiFI,,
