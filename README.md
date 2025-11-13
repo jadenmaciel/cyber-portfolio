@@ -31,6 +31,7 @@ A single, curated repo for my security projects. Each folder is a standalone pro
 - **Windows USB Recovery Toolkit** → `projects/windows-usb-recovery-toolkit`
 
 ### Networking & Infrastructure
+- **Cisco Packet Tracer – Logical & Physical Mode (Activity 1.1.5)** → `projects/project-cisco-packet-tracer-activity-1-1-5`
 - **SOHO Development Network** → `projects/project-soho-dev-network`
 
 ### What's inside each project
