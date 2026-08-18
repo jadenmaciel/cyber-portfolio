@@ -19,6 +19,7 @@ A single, curated repo for my security projects. Each folder is a standalone pro
 - **WSUS Domain Update Hub** → `projects/wsus-domain-update-hub`
 
 ### Security Tools & Analysis
+- **Bootable Kali** → `projects/bootable-kali`
 - **DShield IDS Honeypot** → `projects/project-dshield-ids-honeypot`
 - **WiFi IDS Analysis** → `projects/wifi-ids-analysis`
 
@@ -55,4 +56,4 @@ git subtree pull --prefix=projects/wifi-ids-analysis wifi-ids-analysis main -m "
 
 **Note:** If you imported with `--squash`, add `--squash` to the pull command as well.
 
-**Author:** Jaden Maciel • **Focus:** Cloud / DevSecOps / Security Engineering • **Updated:** 2025-11-06
+**Author:** Jaden Maciel • **Focus:** Cloud / DevSecOps / Security Engineering • **Updated:** 2026-08-18

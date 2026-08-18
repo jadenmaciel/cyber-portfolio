@@ -1,0 +1,6 @@
+"accountId","awsRegion","resourceId","resourceType","configuration.complianceType"
+"378192010503","us-east-2","AWS::::Account/378192010503","AWS::Config::ResourceCompliance","COMPLIANT"
+"378192010503","us-east-2","AWS::S3::Bucket/aws-cloudtrail-logs-378192010503-070416f4","AWS::Config::ResourceCompliance","COMPLIANT"
+"378192010503","us-east-2","AWS::S3::Bucket/awsconfig-123456789012-us-east-1-jaden","AWS::Config::ResourceCompliance","COMPLIANT"
+"378192010503","us-east-2","AWS::S3::Bucket/awsconfig-123456789012-us-east-2-jaden","AWS::Config::ResourceCompliance","COMPLIANT"
+"378192010503","us-east-2","AWS::S3::Bucket/cloudtrail-logs-123456789012-us-east-1-jaden","AWS::Config::ResourceCompliance","COMPLIANT"
